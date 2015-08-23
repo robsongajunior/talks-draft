@@ -6,8 +6,8 @@ Possui 23 anos de idade, atua na área há 3 anos e atualmente reside na imensid
 
 ## Repaint/Reflow, DOM Tree e Render Tree - Renderizando uma página Web
 Tem o ojetivo de apresentar o processo que acorre no browser até termos uma página renderizada,
-também iremos ver como vomo depurar, medir e os impactos na performance, junto com isso iremos
-também ver algumas boas práticas.
+também iremos ver como depurar e medir os impactos na performance, além disso iremos
+ver as boas práticas para tal.
 
 -----------------------------------------------
 
