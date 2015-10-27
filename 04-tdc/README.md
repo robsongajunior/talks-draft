@@ -25,4 +25,4 @@ abordado como depurar e algumas técnicas de todo esse processo.
 * Repaint/Reflow - quando/como isso acontece
 * Impácto no processamento
 * Como amenizar
-* Debbugin
+* Debugging
