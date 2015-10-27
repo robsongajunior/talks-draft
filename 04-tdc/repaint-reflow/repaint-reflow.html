@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Repaint/Reflow</title>
+
+	<style>
+		* {
+		    margin: 0;
+		    border: 0;
+		}
+		body {
+		    background: #ccc;
+		    padding: 20px;
+		}
+		button {
+		    text-shadow: 0 -1px 0px white;
+		    background: #eeeeee;
+		    border: solid 1px white;
+		    border-radius: 4px;
+		    cursor: pointer;
+		    padding: 20px 40px;
+		    font-weight: bold;
+		    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+		    font-size: 26px;
+		    margin: 20px auto;
+		    display: block;
+		}
+		.div1,
+		.div2 {
+		    width: 40px;
+		    display: inline-block;
+		    padding: 10px;
+		    position: relavive;
+		}
+
+		.div1 {
+		    background-color: #fff;
+		}
+		.div2 {
+		    background-color: #dedede;
+		}
+	</style>
+</head>
+<body>
+
+	<button class="btn">REFLOW</button>
+
+	<div class="div1">div 1</div>
+	<div class="div2">div 2</div>
+
+	<script>
+		function reflow(el) {
+		    var div = document.querySelector(".div1");
+		    var div2 = document.querySelector(".div2");    
+
+		    div.style.width = (div.offsetWidth * 2) + "px";
+
+		    console.log('Offset left div2: ', div2.offsetLeft);
+		};
+
+
+		var button = document.querySelector(".btn");
+		button.addEventListener('click', reflow);
+	</script>
+
+</body>
+</html>

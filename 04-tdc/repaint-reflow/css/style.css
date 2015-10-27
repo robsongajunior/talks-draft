@@ -1,0 +1,9 @@
+body {
+  background-color: #FFF;
+}
+
+#logo {
+  width: 400px;
+  display: block;
+  margin: 40px auto;
+}
