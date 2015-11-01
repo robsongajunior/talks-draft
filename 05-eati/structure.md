@@ -1,14 +1,14 @@
 # Infinity Power
 
 ## Descrição
-Estamos em 2015 há 10 anos atrás nascia o nosso gigante e poderoso JavaScript.
+Estamos em 2015 há 20 anos atrás nascia o nosso gigante e poderoso JavaScript.
 Vamos ver o quanto o JavaScript evoluiu e o porque ele é tão poderoso de uma forma simples de ser compreendida, sendo único e revolucionário para a web e o mundo da tecnologia!
 
 __image:__ https://scontent-atl3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/12039757_873521856036045_8766809764912763110_n.jpg?oh=ff39eaed056058991e05c7f905b5a66d&oe=56BB8AFC
 
 ## Bio
 Estudante de Análise e Desenvolvimento de Sistemas no SenacRS,
-membro da Organização JSRocks, Analísta e Web Developer no Terra Networks S/A.
+membro da Organização JSRocks e Webschool, Analísta e Web Developer no Terra Networks S/A.
 Possui 23 anos de idade, atua na área há 3 anos e atualmente reside na imensidão da Weblândia.
 
 * Apresentação
